@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
-import './Form.css'; // Your custom CSS file for additional styling
 import { AccordionDetails, Typography, AccordionSummary, Accordion } from '@mui/material';
 
 function Form() {
